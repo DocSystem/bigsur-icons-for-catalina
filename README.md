@@ -6,7 +6,9 @@ macOS Big Sur icons for macOS Catalina (auto-apply script)
 
 To run this script, macOS SIP need to be disabled!
 
-## Applying icons
+## Apply icons
+
+Clone the repo on your computer
 
 To apply icons, open a terminal, then type ``cd `` and drag the extracted folder in the Terminal window
 
