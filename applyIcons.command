@@ -3,7 +3,7 @@
 cd "$(dirname "$0")"
 version=`sw_vers -productVersion`
 
-echo "You need to have root rights to execute this script"
+echo "You need to execute this script as root"
 
 echo " "
 
