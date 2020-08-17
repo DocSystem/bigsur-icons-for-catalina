@@ -19,4 +19,4 @@ It will ask you for your password to copy the files, enter it and all the files 
 ## TO DO LIST
 
 - [x] Add System icons (drives, folders, empty doc and empty files)
-- [ ] Add default macOS Applications icons
+- [x] Add default macOS Applications icons
