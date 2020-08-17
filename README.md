@@ -4,19 +4,15 @@ macOS Big Sur icons for macOS Catalina (auto-apply script)
 
 ## Warning
 
-To run this script, macOS SIP need to be disabled!
+To run this script, macOS SIP need to be disabled if on macOS 10.15+!
 
 ## Apply icons
 
-Clone the repo on your computer
+Download the repo on your computer
 
-To apply icons, open a terminal, then type ``cd `` and drag the extracted folder in the Terminal window
+Extract it and open the folder
 
-Then run this command:
-
-```
-python applyIcons.py
-```
+Click on ``applyIcons.command``
 
 It will ask you for your password to copy the files, enter it and all the files will be copied
 
